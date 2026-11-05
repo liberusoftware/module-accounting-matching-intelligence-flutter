@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-matching-intelligence-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-matching-intelligence",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_matching_intelligence_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/matching-intelligence.md",
+  "presentationPlan": "projects/accounting/flutter/matching-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
